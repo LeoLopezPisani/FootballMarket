@@ -1,0 +1,16 @@
+C:\Users\leo_1\source\repos\FootballMarket\FootballMarket\obj\Debug\net5.0\FootballMarket.csproj.AssemblyReference.cache
+C:\Users\leo_1\source\repos\FootballMarket\FootballMarket\obj\Debug\net5.0\FootballMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo_1\source\repos\FootballMarket\FootballMarket\obj\Debug\net5.0\FootballMarket.AssemblyInfoInputs.cache
+C:\Users\leo_1\source\repos\FootballMarket\FootballMarket\obj\Debug\net5.0\FootballMarket.AssemblyInfo.cs
+C:\Users\leo_1\source\repos\FootballMarket\FootballMarket\obj\Debug\net5.0\FootballMarket.csproj.CoreCompileInputs.cache
+C:\Users\leo_1\source\repos\FootballMarket\FootballMarket\bin\Debug\net5.0\FootballMarket.exe
+C:\Users\leo_1\source\repos\FootballMarket\FootballMarket\bin\Debug\net5.0\FootballMarket.deps.json
+C:\Users\leo_1\source\repos\FootballMarket\FootballMarket\bin\Debug\net5.0\FootballMarket.runtimeconfig.json
+C:\Users\leo_1\source\repos\FootballMarket\FootballMarket\bin\Debug\net5.0\FootballMarket.runtimeconfig.dev.json
+C:\Users\leo_1\source\repos\FootballMarket\FootballMarket\bin\Debug\net5.0\FootballMarket.dll
+C:\Users\leo_1\source\repos\FootballMarket\FootballMarket\bin\Debug\net5.0\ref\FootballMarket.dll
+C:\Users\leo_1\source\repos\FootballMarket\FootballMarket\bin\Debug\net5.0\FootballMarket.pdb
+C:\Users\leo_1\source\repos\FootballMarket\FootballMarket\obj\Debug\net5.0\FootballMarket.dll
+C:\Users\leo_1\source\repos\FootballMarket\FootballMarket\obj\Debug\net5.0\ref\FootballMarket.dll
+C:\Users\leo_1\source\repos\FootballMarket\FootballMarket\obj\Debug\net5.0\FootballMarket.pdb
+C:\Users\leo_1\source\repos\FootballMarket\FootballMarket\obj\Debug\net5.0\FootballMarket.genruntimeconfig.cache
